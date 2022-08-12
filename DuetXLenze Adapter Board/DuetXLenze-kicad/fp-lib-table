@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "SN74LVC8T245PWR")(type "KiCad")(uri "${KIPRJMOD}/Library/IC_Texas Instruments_SN74LVC8T245PWR/eec.pretty")(options "")(descr ""))
+  (lib (name "74HC04D,653")(type "KiCad")(uri "${KIPRJMOD}/Library/IC_Nexperia_74HC04D,653/eec.pretty")(options "")(descr ""))
+  (lib (name "5747844-4")(type "KiCad")(uri "${KIPRJMOD}/Library/Conn_TE Connectivity_5747844-4/eec.pretty")(options "")(descr ""))
+  (lib (name "2092-1173")(type "KiCad")(uri "${KIPRJMOD}/Library/2092-1173")(options "")(descr ""))
+  (lib (name "2604-1102")(type "KiCad")(uri "${KIPRJMOD}/Library/2604-1102")(options "")(descr ""))
+  (lib (name "CL31A106KBHNNNE")(type "KiCad")(uri "${KIPRJMOD}/Library/CL31A106KBHNNNE")(options "")(descr ""))
+  (lib (name "DIOM5226X295N")(type "KiCad")(uri "${KIPRJMOD}/Library/DIOM5226X295N")(options "")(descr ""))
+  (lib (name "1825057-5")(type "KiCad")(uri "${KIPRJMOD}/Library/1825057-5")(options "")(descr ""))
+)

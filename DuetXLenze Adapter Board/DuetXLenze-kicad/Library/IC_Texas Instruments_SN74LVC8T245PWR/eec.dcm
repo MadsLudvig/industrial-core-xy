@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC8T245PWR
+D SN74LVC8T245PWR
+F http://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf
+$ENDCMP
+# end doc library
